@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GMJERIC
+- 👋 Hi, I’m JERIC
 - 👀 I’m interested in reading manga/manhwa/manhua
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anyone
