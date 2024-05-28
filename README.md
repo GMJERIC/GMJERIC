@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JERIC
+- 👋 Hi, I’m Jeric Castillo
 - 🌱 I’m currently studying python, html, css, javascript, vb.net
 - 💞️ I’m looking to collaborate on anyone
 - 👀 I'm also like playing online games and gacha games
